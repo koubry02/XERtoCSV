@@ -1,0 +1,8 @@
+[package]
+name = "xertocsv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"  # For handling CSV files
+walkdir = "2.3"  # For directory traversal
